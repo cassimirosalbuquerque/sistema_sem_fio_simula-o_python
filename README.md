@@ -33,8 +33,8 @@ O simulador implementa um cenário de comunicação sem fio com Múltiplos Ponto
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
-    cd <NOME_DO_SEU_REPOSITORIO>
+    git clone <[https://github.com/cassimirosalbuquerque/sistema_sem_fio_simulacao_python]>
+    cd <sistema_sem_fio_simulacao_python>
     ```
 
 2.  **(Opcional, mas recomendado) Crie e ative um ambiente virtual:**
