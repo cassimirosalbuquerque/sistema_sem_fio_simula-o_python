@@ -63,12 +63,6 @@ O simulador implementa um cenário de comunicação sem fio com Múltiplos Ponto
 
     Após a simulação, os gráficos correspondentes serão exibidos.
 
-## 📈 Exemplos de Saída
-
-*(Opcional: Você pode adicionar aqui uma ou duas imagens dos gráficos gerados pelo seu script para ilustrar o resultado)*
-
-![Exemplo de CDF](link_para_sua_imagem_cdf.png)
-![Exemplo de Snapshot](link_para_sua_imagem_snapshot.png)
 
 ## 📄 Licença
 
